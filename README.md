@@ -2,7 +2,9 @@
 # <h1 align=center> **PROYECTO DATA ENGINEER** </h1>
 
 >## <p>***Realizado por***: Valentino Muchino <br>
+
 >### **Video Explicativo: https://youtu.be/htHHv8oZ4a8**. <br>
+
 ### ***Linkedin***: [https://www.linkedin.com/in/valentinomuchino/](https://www.linkedin.com/in/valentinomuchino/)<br>
 ### ***GitHub***: [https://github.com/valemuchino](https://github.com/valemuchino)</p>
 ### ***Email***: valentinogrowth@gmail.com</p>
